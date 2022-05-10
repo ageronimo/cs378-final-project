@@ -1,0 +1,80 @@
+The mean is: 142.733ms
+Thu Feb 11 16:54:44 2016
+
+
+The mean is: 144.134ms
+Thu Feb 11 16:57:12 2016
+
+
+The mean is: 143.127ms
+Thu Feb 11 16:59:38 2016
+
+
+The mean is: 144.833ms
+Thu Feb 11 17:02:06 2016
+
+
+The mean is: 143.604ms
+Thu Feb 11 17:04:33 2016
+
+
+The mean is: 142.261ms
+Thu Feb 11 17:06:59 2016
+
+
+The mean is: 219.098ms
+Thu Feb 11 16:36:06 2016
+
+
+The mean is: 220.075ms
+Thu Feb 11 16:39:47 2016
+
+
+The mean is: 214.529ms
+Thu Feb 11 16:43:23 2016
+
+
+The mean is: 215.26ms
+Thu Feb 11 16:52:32 2016
+
+
+The mean is: 214.399ms
+Thu Feb 11 16:56:08 2016
+
+
+The mean is: 213.951ms
+Thu Feb 11 16:59:43 2016
+
+
+The mean is: 214.863ms
+Thu Feb 11 17:03:19 2016
+
+
+The mean is: 222.333ms
+Thu Feb 11 17:13:22 2016
+
+
+The mean is: 215.665ms
+Thu Feb 11 17:30:54 2016
+
+
+The mean is: 236.024ms
+Thu Feb 11 17:40:17 2016
+
+
+The mean is: 233.406ms
+Thu Feb 11 18:09:40 2016
+
+
+The mean is: 225.769ms
+Thu Feb 11 18:13:27 2016
+
+
+The mean is: 223.072ms
+Thu Feb 11 17:54:33 2016
+
+
+The mean is: 395.821ms
+Thu Feb 11 17:23:51 2016
+
+
